@@ -17,5 +17,7 @@ Built in **Tableau** using data from [Our World in Data](https://ourworldindata.
 - **Interactive filtering**: Compare 10 key countries or view global data.
 - **KPI metrics**: Total cases and deaths.
 - **Map visualisation**: Geographical spread with focus on selected countries.
+- 
+## 🌐 Live Dashboard
+View the interactive version here: [Tableau Public Link](https://public.tableau.com/app/profile/alistair.evans/viz/Coviddataset_17550087089290/Covid-19Overview?publish=yes)
 
-This is a link to a tableau public dashboard that aims to explore a covid dataset in a variety of countries. The dashboard can be found here: https://public.tableau.com/app/profile/alistair.evans/viz/Coviddataset_17550087089290/Covid-19Overview?publish=yes
