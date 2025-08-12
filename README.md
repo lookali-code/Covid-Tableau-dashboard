@@ -1,5 +1,5 @@
 # Covid-Tableau-dashboard
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Covid Dashboard.png)
 ## 📊 Project Overview
 This interactive dashboard provides insights into the COVID-19 pandemic across selected countries, focusing on:
 - Case and death trends
